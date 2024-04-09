@@ -12,3 +12,10 @@
 
 - Implement Low-Pass Filter using methods: Average, Median, Gaussian, ...
 - Implement High-Pass Filter using methods: Gaussian, Sobel, Laplacian, ...
+
+
+## [Project 3: Gradient Domain Editing](project/project3.ipynb)
+
+- Masking object and replacing background
+- Implement Poison Blending
+- Implement Laplacian Pyramid Blending
