@@ -19,3 +19,9 @@
 - Masking object and replacing background
 - Implement Poison Blending
 - Implement Laplacian Pyramid Blending
+
+
+## [Project 5: Image stitching](project/project5.ipynb)
+
+- Extract image features using methods: SIFT, BRISK, ...
+- Stitching three images into one expansive image
