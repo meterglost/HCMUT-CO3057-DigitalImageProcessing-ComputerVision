@@ -21,6 +21,13 @@
 - Implement Laplacian Pyramid Blending
 
 
+## [Project 4: Transformations](project/project4.ipynb)
+
+- Straighten object as well as the shooting angle in the given sample photos
+- Select source points and destination points to create transformation matrix
+- Transform images using methods: Affine, Perspective
+
+
 ## [Project 5: Image stitching](project/project5.ipynb)
 
 - Extract image features using methods: SIFT, BRISK, ...
